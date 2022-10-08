@@ -21,7 +21,7 @@
 <h3 align="center">Oanna OS</h3>
 
   <p align="center">
-    a simple site for infomation.
+    a fork of CuteFish OS, with support for newer versions of ubuntu and this repo is't dead :)
     <br />
     <a href="https://github.com/SilkePilon/kerndoelen.com"><strong>Explore the docs »</strong></a>
     <br />
