@@ -209,15 +209,15 @@ Project Link: [https://github.com/SilkePilon/kerndoelen.com](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/SilkePilon/kerndoelen.com.svg?style=for-the-badge
-[contributors-url]: https://github.com/SilkePilon/kerndoelen.com/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/SilkePilon/kerndoelen.com.svg?style=for-the-badge
-[forks-url]: https://github.com/SilkePilon/kerndoelen.com/network/members
-[stars-shield]: https://img.shields.io/github/stars/SilkePilon/kerndoelen.com.svg?style=for-the-badge
-[stars-url]: https://github.com/SilkePilon/kerndoelen.com/stargazers
-[issues-shield]: https://img.shields.io/github/issues/SilkePilon/kerndoelen.com.svg?style=for-the-badge
-[issues-url]: https://github.com/SilkePilon/kerndoelen.com/issues
-[license-shield]: https://img.shields.io/github/license/SilkePilon/kerndoelen.com.svg?style=for-the-badge
-[license-url]: https://github.com/SilkePilon/kerndoelen.com/blob/master/LICENSE.md
+[contributors-shield]: https://img.shields.io/github/contributors/SilkePilon/oanna-os.svg?style=for-the-badge
+[contributors-url]: https://github.com/SilkePilon/oanna-os/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/SilkePilon/oanna-os.svg?style=for-the-badge
+[forks-url]: https://github.com/SilkePilon/oanna-os/network/members
+[stars-shield]: https://img.shields.io/github/stars/SilkePilon/oanna-os.svg?style=for-the-badge
+[stars-url]: https://github.com/SilkePilon/oanna-os/stargazers
+[issues-shield]: https://img.shields.io/github/issues/SilkePilon/oanna-os.svg?style=for-the-badge
+[issues-url]: https://github.com/SilkePilon/oanna-os/issues
+[license-shield]: https://img.shields.io/github/license/SilkePilon/oanna-os.svg?style=for-the-badge
+[license-url]: https://github.com/SilkePilon/oanna-os/blob/master/LICENSE.md
 [product-screenshot]: images/screenshot.png
 <div id="top"></div>
