@@ -18,7 +18,7 @@
     <img src="https://github.com/SilkePilon/oanna-os/blob/main/oannaos.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Kerndoelen.com</h3>
+<h3 align="center">Oanna OS</h3>
 
   <p align="center">
     a simple site for infomation.
