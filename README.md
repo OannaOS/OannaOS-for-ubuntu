@@ -68,15 +68,7 @@ this is a school project i made for the studens of groevenbeek next.
 
 
 
-### Built With
 
-* [Python](https://www.python.org/)
-* [JavaScript](ttps://reactjs.org/)
-* [CSS](https://vuejs.org)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -139,10 +131,9 @@ _For more examples, please refer to the [Documentation](https://kerndoelen.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] kerndoelen counter
-- [x] kerndoelen finder
-- [x] full dark mode and no backgroud mode
-- [ ] see not completed kerndoelen
+- [x] updated to ubuntu 22.04
+- [x] support for Google Chrome
+- [ ] iso installer
 
 See the [open issues](https://github.com/SilkePilon/kerndoelen.com/issues) for a full list of proposed features (and known issues).
 
@@ -152,7 +143,7 @@ See the [open issues](https://github.com/SilkePilon/kerndoelen.com/issues) for a
 
 <!-- CONTRIBUTING -->
 ## Contributing
-
+(soon!)
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
