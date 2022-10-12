@@ -62,7 +62,7 @@
 
 
 
-Oanna OS is a fork of Cutefish OS but recoded and updated for newer versions of Ubuntu 22.04 TLS. Oanna OS includes some pre-installed apps sutch als neofetch, ssh (openssh) and some other performes improfers. Please note that this is a singe dev reposetory so help is needed. If you find a issuse please report it in the issuses tab above. if you look at the Cutefish os [reposetory](https://github.com/orgs/cutefishos/repositories) you can see its dead. This is why this reposetory was created to bring new life into the os and ui. 
+Oanna OS is a fork of Cutefish OS but recoded and updated for newer versions of Ubuntu 22.04 TLS. Oanna OS includes some pre-installed apps sutch als neofetch, ssh (openssh) and some other performes improfers. Please note that this is a single developer reposetory so help is needed. If you find a issuse please report it in the issuses tab above. if you look at the Cutefish os [reposetory](https://github.com/orgs/cutefishos/repositories) you can see its dead. This is why this reposetory was created to bring new life into the os and ui. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
