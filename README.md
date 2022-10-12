@@ -62,7 +62,7 @@
 
 
 
-this is a school project i made for the studens of groevenbeek next.
+Oanna OS is a fork of Cutefish OS but recoded and updated for newer versions of Ubuntu 22.04 TLS. Oanna OS includes some pre-installed apps sutch als neofetch, ssh (openssh) and some other performes improfers. Please note that this is a singe dev reposetory so help is needed. If you find a issuse please report it in the issuses tab above. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -73,7 +73,7 @@ this is a school project i made for the studens of groevenbeek next.
 
 
 <!-- GETTING STARTED -->
-## Code
+## Preview
 
 down below you can see some more infomation on the code and more will be added!
 
