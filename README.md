@@ -75,9 +75,9 @@ Oanna OS is a fork of Cutefish OS but recoded and updated for newer versions of 
 <!-- GETTING STARTED -->
 ## Preview
 
-down below you can see some more infomation on the code and more will be added!
+Here you can see the nice and simple desktop of Oanna OS (forked from Cutefish OS)
+all credits for the ui go to Cutefish.
 
-## Infomation stored on you:
 <div align="center">
   <a href="https://github.com/SilkePilon/kerndoelen.com/">
     <img src="https://github.com/SilkePilon/kerndoelen.com/blob/master/datastored.png" alt="Logo">
@@ -85,30 +85,23 @@ down below you can see some more infomation on the code and more will be added!
 </div>
 
 
-## When you make a request:
 <div align="center">
   <a href="https://github.com/SilkePilon/kerndoelen.com/">
     <img src="https://github.com/SilkePilon/kerndoelen.com/blob/master/dataonreq.png" alt="Logo">
   </a>
 </div>
 
-## Logs
+## How to use and update
 <details>
-	<summary>Full logs (real time)</summary>
+	<summary>update</summary>
 	<br>
 
 
 
 
-``` * Serving Flask app server (lazy loading)\n
-  * Environment: production\n
-    WARNING: This is a development server. Do not use it in a production deployment.\n
-    Use a production WSGI server instead.\n
-  * Debug mode: on\n
-  * Running on i hide my ip (Press CTRL+C to quit)\n
-  * Restarting with stat\n
-  * Debugger is active!\n
-  * Debugger PIN: 637-020-056\n
+``` 
+	sudo apt-get update
+	sudo apt upgrade
 ```
 
 
@@ -190,9 +183,9 @@ Project Link: [https://github.com/SilkePilon/kerndoelen.com](https://github.com/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [@slimetouber_official](https://www.tiktok.com/@slimetouber_official)
+<!-- * [@slimetouber_official](https://www.tiktok.com/@slimetouber_official)
 * [@Jaivy Butzelaar](https://www.tiktok.com/@j.b.astrophotography)
-* [@Finn]()
+* [@Finn]() -->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
