@@ -178,9 +178,9 @@ Project Link: [https://github.com/SilkePilon/oanna-os](https://github.com/SilkeP
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-<!-- * [@slimetouber_official](https://www.tiktok.com/@slimetouber_official)
-* [@Jaivy Butzelaar](https://www.tiktok.com/@j.b.astrophotography)
-* [@Finn]() -->
+* [renderforest for logo design](https://www.renderforest.com/#Videos)
+* [Calamares Installer](https://calamares.io/)
+* [@SilkePilon]()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
