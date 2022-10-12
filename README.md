@@ -14,7 +14,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/SilkePilon/kerndoelen.com/">
+  <a href="https://github.com/SilkePilon/oanna-os/">
     <img src="https://github.com/SilkePilon/oanna-os/blob/main/oannaos.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -23,14 +23,14 @@
   <p align="center">
     a fork of CuteFish OS, with support for newer versions of ubuntu and this repo is't dead :)
     <br />
-    <a href="https://github.com/SilkePilon/kerndoelen.com"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/SilkePilon/oanna-os"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/SilkePilon/kerndoelen.com">View Demo</a>
+    <a href="https://github.com/SilkePilon/oanna-os">View Demo</a>
     ·
-    <a href="https://github.com/SilkePilon/kerndoelen.com/issues">Report Bug</a>
+    <a href="https://github.com/SilkePilon/oanna-os/issues">Report Bug</a>
     ·
-    <a href="https://github.com/SilkePilon/kerndoelen.com/issues">Request Feature</a>
+    <a href="https://github.com/SilkePilon/oanna-os/issues">Request Feature</a>
   </p>
 </div>
 
@@ -79,15 +79,15 @@ Here you can see the nice and simple desktop of Oanna OS (forked from Cutefish O
 all credits for the ui go to Cutefish.
 
 <div align="center">
-  <a href="https://github.com/SilkePilon/kerndoelen.com/">
-    <img src="https://github.com/SilkePilon/kerndoelen.com/blob/master/datastored.png" alt="Logo">
+  <a href="https://github.com/SilkePilon/oanna-os/">
+    <img src="https://github.com/SilkePilon/oanna-os/blob/master/datastored.png" alt="Logo">
   </a>
 </div>
 
 
 <div align="center">
-  <a href="https://github.com/SilkePilon/kerndoelen.com/">
-    <img src="https://github.com/SilkePilon/kerndoelen.com/blob/master/dataonreq.png" alt="Logo">
+  <a href="https://github.com/SilkePilon/oanna-os/">
+    <img src="https://github.com/SilkePilon/oanna-os/blob/master/dataonreq.png" alt="Logo">
   </a>
 </div>
 
@@ -115,7 +115,7 @@ all credits for the ui go to Cutefish.
 ## Usage
 
 
-_For more examples, please refer to the [Documentation](https://kerndoelen.com)_
+_For more examples, please refer to the [Documentation](https://oanna-os)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -128,7 +128,7 @@ _For more examples, please refer to the [Documentation](https://kerndoelen.com)_
 - [x] support for Google Chrome
 - [ ] iso installer
 
-See the [open issues](https://github.com/SilkePilon/kerndoelen.com/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/SilkePilon/oanna-os/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -172,9 +172,9 @@ For more information, please refer to https://unlicense.org
 <!-- CONTACT -->
 ## Contact
 
-Silke Pilon - team@kerndoelen.com
+Silke Pilon - team@oanna-os
 
-Project Link: [https://github.com/SilkePilon/kerndoelen.com](https://github.com/SilkePilon/kerndoelen.com)
+Project Link: [https://github.com/SilkePilon/oanna-os](https://github.com/SilkePilon/oanna-os)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
