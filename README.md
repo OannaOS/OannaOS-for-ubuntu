@@ -180,6 +180,7 @@ Project Link: [https://github.com/SilkePilon/oanna-os](https://github.com/SilkeP
 
 * [renderforest for logo design](https://www.renderforest.com/#Videos)
 * [Calamares Installer](https://calamares.io/)
+* [Cubic](https://github.com/PJ-Singh-001/Cubic)
 * [@SilkePilon]()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
