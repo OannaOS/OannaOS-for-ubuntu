@@ -80,7 +80,7 @@ all credits for the ui go to Cutefish.
 
 <div align="center">
   <a href="https://github.com/SilkePilon/oanna-os/">
-    <img src="https://github.com/SilkePilon/oanna-os/blob/main/compressing.png" width="200" alt="Logo">
+    <img src="https://github.com/SilkePilon/oanna-os/blob/main/compressing.png" width="500" alt="Logo">
   </a>
 </div>
 
