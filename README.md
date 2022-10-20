@@ -125,10 +125,10 @@ _For more examples, please refer to the [Documentation](https://oanna-os)_
 ## Roadmap
 
 - [x] updated to ubuntu 22.04 
-- [x] support for Google Chrome
-- [x] iso installer
+- [x] #2
+- [x] #1
 - [ ] updated to ubuntu 22.10
-- [ ] fix icons not showing up
+- [ ] #3
 
 See the [open issues](https://github.com/SilkePilon/oanna-os/issues) for a full list of proposed features (and known issues).
 
