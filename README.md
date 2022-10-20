@@ -132,6 +132,14 @@ See the [open issues](https://github.com/SilkePilon/oanna-os/issues) for a full 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+## Request a new feature or update
+
+to request a feuate or update make a issue with a clear discripton of your feature or update with the tag "New Feature or Update"
+
+See the [Request new features or updates](https://github.com/SilkePilon/oanna-os/issues) for a full list of proposed features (and known issues).
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 
 <!-- CONTRIBUTING -->
