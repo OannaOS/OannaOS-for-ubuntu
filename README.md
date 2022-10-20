@@ -125,7 +125,7 @@ _For more examples, please refer to the [Documentation](https://oanna-os)_
 ## Roadmap
 
 - [x] updated to ubuntu 22.04 
-- [x] https://github.com/SilkePilon/oanna-os/issues/2
+- [x] [info](https://github.com/SilkePilon/oanna-os/issues/2)
 - [x] https://github.com/SilkePilon/oanna-os/issues/1
 - [ ] updated to ubuntu 22.10
 - [ ] https://github.com/SilkePilon/oanna-os/issues/3
