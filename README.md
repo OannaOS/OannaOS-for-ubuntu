@@ -26,8 +26,6 @@
     <a href="https://github.com/SilkePilon/oanna-os"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/SilkePilon/oanna-os">View Demo</a>
-    ·
     <a href="https://github.com/SilkePilon/oanna-os/issues">Report Bug</a>
     ·
     <a href="https://github.com/SilkePilon/oanna-os/issues">Request Feature</a>
