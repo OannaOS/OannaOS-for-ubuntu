@@ -89,7 +89,7 @@ all credits for the ui go to Cutefish.
   </a>
 </div>
 
-## Some more detials
+## Some more details
 <details>
 	<summary>uncompressed file size</summary>
 	<br>
