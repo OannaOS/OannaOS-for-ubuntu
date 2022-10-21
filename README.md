@@ -137,7 +137,7 @@ all credits for the ui go to Cutefish.
 
 <!-- USAGE EXAMPLES -->
 
-## Usage
+## Usage & setup
 
 
 _For more examples, please refer to the [Documentation](https://oanna-os)_
