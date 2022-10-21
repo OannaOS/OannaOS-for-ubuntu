@@ -14,8 +14,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/SilkePilon/oanna-os/">
-    <img src="https://github.com/SilkePilon/oanna-os/blob/main/oannaos.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/SilkePilon/OannaOS/">
+    <img src="https://github.com/SilkePilon/OannaOS/blob/main/oannaos.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Oanna OS (I need help with a new name)</h3>
@@ -23,12 +23,12 @@
   <p align="center">
     a fork of CuteFish OS, with support for newer versions of ubuntu and this repo is't dead :)
     <br />
-    <a href="https://github.com/SilkePilon/oanna-os"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/SilkePilon/OannaOS"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/SilkePilon/oanna-os/issues">Report Bug</a>
+    <a href="https://github.com/SilkePilon/OannaOS/issues">Report Bug</a>
     ·
-    <a href="https://github.com/SilkePilon/oanna-os/issues">Request Feature</a>
+    <a href="https://github.com/SilkePilon/OannaOS/issues">Request Feature</a>
   </p>
 </div>
 
@@ -77,15 +77,15 @@ Here you can see the nice and simple desktop of Oanna OS (forked from Cutefish O
 all credits for the ui go to Cutefish.
 
 <div align="center">
-  <a href="https://github.com/SilkePilon/oanna-os/">
-    <img src="https://github.com/SilkePilon/oanna-os/blob/main/compressing.png" width="500" alt="Logo">
+  <a href="https://github.com/SilkePilon/OannaOS/">
+    <img src="https://github.com/SilkePilon/OannaOS/blob/main/compressing.png" width="500" alt="Logo">
   </a>
 </div>
 
 
 <div align="center">
-  <a href="https://github.com/SilkePilon/oanna-os/">
-    <img src="https://github.com/SilkePilon/oanna-os/blob/master/dataonreq.png" alt="Logo">
+  <a href="https://github.com/SilkePilon/OannaOS/">
+    <img src="https://github.com/SilkePilon/OannaOS/blob/master/dataonreq.png" alt="Logo">
   </a>
 </div>
 
@@ -123,12 +123,12 @@ _For more examples, please refer to the [Documentation](https://oanna-os)_
 ## Roadmap
 
 - [x] updated to ubuntu 22.04 
-- [x] https://github.com/SilkePilon/oanna-os/issues/2
-- [x] https://github.com/SilkePilon/oanna-os/issues/1
+- [x] https://github.com/SilkePilon/OannaOS/issues/2
+- [x] https://github.com/SilkePilon/OannaOS/issues/1
 - [ ] updated to ubuntu 22.10
-- [ ] https://github.com/SilkePilon/oanna-os/issues/3
+- [ ] https://github.com/SilkePilon/OannaOS/issues/3
 
-See the [open issues](https://github.com/SilkePilon/oanna-os/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/SilkePilon/OannaOS/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -136,7 +136,7 @@ See the [open issues](https://github.com/SilkePilon/oanna-os/issues) for a full 
 
 to request a feuate or update make a issue with a clear discripton of your feature or update with the tag "New Feature or Update"
 
-See the [Request new features or updates](https://github.com/SilkePilon/oanna-os/issues) for a full list of proposed features (and known issues).
+See the [Request new features or updates](https://github.com/SilkePilon/OannaOS/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -177,7 +177,7 @@ For more information, please refer to https://unlicense.org
 
 Silke Pilon - team@oanna-os
 
-Project Link: [https://github.com/SilkePilon/oanna-os](https://github.com/SilkePilon/oanna-os)
+Project Link: [https://github.com/SilkePilon/OannaOS](https://github.com/SilkePilon/OannaOS)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -197,15 +197,15 @@ Project Link: [https://github.com/SilkePilon/oanna-os](https://github.com/SilkeP
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/SilkePilon/oanna-os.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/SilkePilon/OannaOS.svg?style=for-the-badge
 [contributors-url]: https://github.com/SilkePilon/oanna-os/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/SilkePilon/oanna-os.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/SilkePilon/OannaOS.svg?style=for-the-badge
 [forks-url]: https://github.com/SilkePilon/oanna-os/network/members
-[stars-shield]: https://img.shields.io/github/stars/SilkePilon/oanna-os.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/SilkePilon/OannaOS.svg?style=for-the-badge
 [stars-url]: https://github.com/SilkePilon/oanna-os/stargazers
-[issues-shield]: https://img.shields.io/github/issues/SilkePilon/oanna-os.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/SilkePilon/OannaOS.svg?style=for-the-badge
 [issues-url]: https://github.com/SilkePilon/oanna-os/issues
-[license-shield]: https://img.shields.io/github/license/SilkePilon/oanna-os.svg?style=for-the-badge
-[license-url]: https://github.com/SilkePilon/oanna-os/blob/master/LICENSE.md
+[license-shield]: https://img.shields.io/github/license/SilkePilon/OannaOS.svg?style=for-the-badge
+[license-url]: https://github.com/SilkePilon/OannaOS/blob/master/LICENSE.md
 [product-screenshot]: images/screenshot.png
 <div id="top"></div>
