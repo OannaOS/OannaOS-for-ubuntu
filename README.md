@@ -89,17 +89,44 @@ all credits for the ui go to Cutefish.
   </a>
 </div>
 
-## How to use and update
+## Some more detials
 <details>
-	<summary>update</summary>
+	<summary>uncompressed file size</summary>
 	<br>
 
 
 
 
 ``` 
-	sudo apt-get update
-	sudo apt upgrade
+	7.12 GB
+```
+
+
+
+</details>
+<details>
+	<summary>suported versions of ubuntu</summary>
+	<br>
+
+
+
+
+``` 
+	22.04 TLS & 22.10 TLS
+```
+
+
+
+</details>
+<details>
+	<summary>iso file size</summary>
+	<br>
+
+
+
+
+``` 
+	about 2.5 GB
 ```
 
 
