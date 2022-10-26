@@ -126,7 +126,7 @@ all credits for the ui go to Cutefish. And yes it looks like MacOS :)
 
 
 ``` 
-	The OannaOS iso fie size is about +/- 2.5 GB
+	The OannaOS iso fie size is about +/- 3.0 GB
 ```
 
 
