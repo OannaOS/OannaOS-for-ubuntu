@@ -98,7 +98,7 @@ all credits for the ui go to Cutefish.
 
 
 ``` 
-	7.12 GB
+	The uncompressed file size of OannaOS is 7.12 GB after install.
 ```
 
 
@@ -112,7 +112,7 @@ all credits for the ui go to Cutefish.
 
 
 ``` 
-	22.04 TLS & 22.10 TLS
+	OannaOS currently supports ubuntu 22.04 TLS & 22.10 non-TLS. this will be updated regely after for new releases.
 ```
 
 
@@ -126,7 +126,7 @@ all credits for the ui go to Cutefish.
 
 
 ``` 
-	about 2.5 GB
+	The OannaOS iso fie size is about +/- 2.5 GB
 ```
 
 
