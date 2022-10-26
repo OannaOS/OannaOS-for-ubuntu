@@ -18,7 +18,7 @@
     <img src="https://github.com/SilkePilon/OannaOS/blob/main/oannaos.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Oanna OS Developer version (I need help with a new name)</h3>
+<h3 align="center">Oanna OS</h3>
 
   <p align="center">
     a fork of CuteFish OS, with support for newer versions of ubuntu and this repo is't dead :)
