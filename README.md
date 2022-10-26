@@ -74,7 +74,7 @@ Oanna OS is a fork of Cutefish OS but updated for newer versions of Ubuntu 22.04
 ## Preview
 
 Here you can see the nice and simple desktop of Oanna OS (forked from Cutefish OS)
-all credits for the ui go to Cutefish.
+all credits for the ui go to Cutefish. And yes it looks like MacOS :)
 
 <div align="center">
   <a href="https://github.com/SilkePilon/OannaOS/">
